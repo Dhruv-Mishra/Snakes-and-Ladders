@@ -2,6 +2,7 @@
 The complete code(Along with all the assets) of the Snakes and Ladders game developed using JavaFx
 
 ########################## ABOUT THE CODE ########################## 
+
 Concepts used:
 -JavaFx 
 -Multithreading 
@@ -22,7 +23,9 @@ Alongside the standard gameplay features, the following features have been imple
 -Cleaner window UI of the JavaFx window
 
 ########################## ABOUT THE GAME ########################## 
+
 source:https://www.ymimports.com/pages/how-to-play-snakes-and-ladders)
+
 Unlocking:
 The players unlock their tokens by receiving 1 on a die roll. The player cannot move till their token has been unlocked. Once unlocked, the token may move.
 
