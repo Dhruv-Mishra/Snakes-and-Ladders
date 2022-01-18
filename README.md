@@ -4,24 +4,37 @@ The complete code(Along with all the assets) of the Snakes and Ladders game deve
 ########################## ABOUT THE CODE ########################## 
 
 Concepts used:
+
 -JavaFx 
+
 -Multithreading 
+
 -Encapsulation, Polymorphism and Extraction 
+
 -Error handling 
 
+
 Basic Features:
+
 -Movement animations 
+
 -Fluid Die roll animation
+
 -Ladder climbing
+
 
 Extra Features:
 
 Alongside the standard gameplay features, the following features have been implemented
 
 -Ripple effect on tap
+
 -Player Menus(Pause menu, winscreen etc.)
+
 -Multipoint fluid snake tracing animation(implemented using path transitions on polylines)
+
 -Ingame player display bar switches between players turns
+
 -Cleaner window UI of the JavaFx window
 
 ########################## ABOUT THE GAME ########################## 
