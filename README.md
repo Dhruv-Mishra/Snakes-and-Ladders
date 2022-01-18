@@ -15,7 +15,7 @@ Basic Features:
 -Ladder climbing
 
 Extra Features:
-Alongside the standard gameplay features, the following features have been implemented
+ Alongside the standard gameplay features, the following features have been implemented
 -Ripple effect on tap
 -Player Menus(Pause menu, winscreen etc.)
 -Multipoint fluid snake tracing animation(implemented using path transitions on polylines)
