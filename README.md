@@ -24,7 +24,7 @@ Alongside the standard gameplay features, the following features have been imple
 
 ########################## ABOUT THE GAME ########################## 
 
-source:https://www.ymimports.com/pages/how-to-play-snakes-and-ladders)
+source:https://www.ymimports.com/pages/how-to-play-snakes-and-ladders
 
 Unlocking:
 The players unlock their tokens by receiving 1 on a die roll. The player cannot move till their token has been unlocked. Once unlocked, the token may move.
