@@ -6,6 +6,31 @@ Redesigning the popular Player vs Player Board Game of Snakes and Ladders with J
 #### Scope of the project: 
 A quick way to play your favourite board game with small subtle touches to make the gameplay experience feel more fun, immersive and satisfactory.
 
+## About the code
+### UML Diagram:
+![img17](https://user-images.githubusercontent.com/88545875/176978591-829545b1-352b-4fde-aca7-cefbeac54b36.jpg)
+### Concepts used:
+    -JavaFx 
+    -Multithreading 
+    -Encapsulation, Polymorphism and Extraction 
+    -Error handling 
+
+
+### Basic Features:
+    -Movement animations 
+    -Fluid Die roll animation
+    -Ladder climbing
+
+
+### Extra Features:
+Alongside the standard gameplay features, the following features have been implemented
+
+    -Ripple effect on tap
+    -Player Menus(Pause menu, winscreen etc.)
+    -Multipoint fluid snake tracing animation(implemented using path transitions on polylines)
+    -Ingame player display bar switches between players turns
+    -Cleaner window UI of the JavaFx window
+    
 ## Game Interface:
 #### Screenshots:
 <a href="https://user-images.githubusercontent.com/88545875/176979100-3080c7c5-2ea1-4f40-92c2-c7b0a37ea5cb.png"><img src="https://user-images.githubusercontent.com/88545875/176979100-3080c7c5-2ea1-4f40-92c2-c7b0a37ea5cb.png" align="left" height="160" width="90" ></a>
@@ -40,27 +65,3 @@ Whereas landing at the top of a ladder the player will stay there until the next
 The first player that reaches the highest space on the board, 100, wins the game. To win the player will need to roll the exact number to get you to the last space. If the player rolls a higher number than needed to land exactly on 100, their piece does not move and remains there until their next turn, when they can roll again.
 
 (source: https://www.ymimports.com/pages/how-to-play-snakes-and-ladders)
-## About the code
-### UML Diagram:
-![img17](https://user-images.githubusercontent.com/88545875/176978591-829545b1-352b-4fde-aca7-cefbeac54b36.jpg)
-### Concepts used:
-    -JavaFx 
-    -Multithreading 
-    -Encapsulation, Polymorphism and Extraction 
-    -Error handling 
-
-
-### Basic Features:
-    -Movement animations 
-    -Fluid Die roll animation
-    -Ladder climbing
-
-
-### Extra Features:
-Alongside the standard gameplay features, the following features have been implemented
-
-    -Ripple effect on tap
-    -Player Menus(Pause menu, winscreen etc.)
-    -Multipoint fluid snake tracing animation(implemented using path transitions on polylines)
-    -Ingame player display bar switches between players turns
-    -Cleaner window UI of the JavaFx window
