@@ -2,15 +2,15 @@
 A redesign of the popular Player vs Player Board Game 
 ## Game Interface:
 #### Screenshots:
-<a href="https://user-images.githubusercontent.com/88545875/176979100-3080c7c5-2ea1-4f40-92c2-c7b0a37ea5cb.png"><img src="https://user-images.githubusercontent.com/88545875/176979100-3080c7c5-2ea1-4f40-92c2-c7b0a37ea5cb.png" height="160" width="90" ></a>
+<a href="https://user-images.githubusercontent.com/88545875/176979100-3080c7c5-2ea1-4f40-92c2-c7b0a37ea5cb.png"><img src="https://user-images.githubusercontent.com/88545875/176979100-3080c7c5-2ea1-4f40-92c2-c7b0a37ea5cb.png" align="left" height="160" width="90" ></a>
 
-<a href="https://user-images.githubusercontent.com/88545875/176978862-b1b3a210-6fbd-4c80-9515-1f283f0c7464.png"><img src="https://user-images.githubusercontent.com/88545875/176978862-b1b3a210-6fbd-4c80-9515-1f283f0c7464.png" height="160" width="90" ></a>
+<a href="https://user-images.githubusercontent.com/88545875/176978862-b1b3a210-6fbd-4c80-9515-1f283f0c7464.png"><img src="https://user-images.githubusercontent.com/88545875/176978862-b1b3a210-6fbd-4c80-9515-1f283f0c7464.png" align="left" height="160" width="90" ></a>
 
-<a href="https://user-images.githubusercontent.com/88545875/176978930-841e6c1f-4aad-44eb-85db-481a35db8a72.png"><img src="https://user-images.githubusercontent.com/88545875/176978930-841e6c1f-4aad-44eb-85db-481a35db8a72.png" height="160" width="90" ></a>
+<a href="https://user-images.githubusercontent.com/88545875/176978930-841e6c1f-4aad-44eb-85db-481a35db8a72.png"><img src="https://user-images.githubusercontent.com/88545875/176978930-841e6c1f-4aad-44eb-85db-481a35db8a72.png" align="left" height="160" width="90" ></a>
 
-<a href="https://user-images.githubusercontent.com/88545875/176979027-154a0ea5-28a5-447f-8646-dd811c4ea33d.png"><img src="https://user-images.githubusercontent.com/88545875/176979027-154a0ea5-28a5-447f-8646-dd811c4ea33d.png" height="160" width="90" ></a>
+<a href="https://user-images.githubusercontent.com/88545875/176979027-154a0ea5-28a5-447f-8646-dd811c4ea33d.png"><img src="https://user-images.githubusercontent.com/88545875/176979027-154a0ea5-28a5-447f-8646-dd811c4ea33d.png" align="left" height="160" width="90" ></a>
 
-<a href="https://user-images.githubusercontent.com/88545875/176979067-5b3919ab-ff3e-405c-a2bd-a36094bdf9fa.png"><img src="https://user-images.githubusercontent.com/88545875/176979067-5b3919ab-ff3e-405c-a2bd-a36094bdf9fa.png" height="160" width="90" ></a>
+<a href="https://user-images.githubusercontent.com/88545875/176979067-5b3919ab-ff3e-405c-a2bd-a36094bdf9fa.png"><img src="https://user-images.githubusercontent.com/88545875/176979067-5b3919ab-ff3e-405c-a2bd-a36094bdf9fa.png" align="left" height="160" width="90" ></a>
 
 #### Gameplay Clip: 
 https://user-images.githubusercontent.com/88545875/176979580-1925bdad-257c-4f3c-865c-c0a95088f896.mp4
