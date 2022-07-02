@@ -8,7 +8,7 @@ A quick way to play your favourite board game with small subtle touches to make 
 
 ## About the code
 ### UML Diagram:
-![img17](https://user-images.githubusercontent.com/88545875/176978591-829545b1-352b-4fde-aca7-cefbeac54b36.jpg)
+![snakes_and_laddersUML](https://user-images.githubusercontent.com/88545875/176996314-7b661958-6cc1-4b3b-ad34-42d9cf998c48.jpeg)
 ### Concepts used:
     -JavaFx 
     -Multithreading 
